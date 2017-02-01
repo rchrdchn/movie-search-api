@@ -1,0 +1,26 @@
+* {
+	background-color: #3F51B5;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#movieData, h2 {
+	list-style-type: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	text-align: center;
+	display: inline-block;
+	color: #CFD8DC;
+}
+
+div {
+	font-family: 'Merriweather', serif;
+	font-size: 20px;
+	font-weight: 700;
+	color: #CFD8DC;
+}
+
+.search {
+	background-color: #37474F;
+	font-family: "Helvetica", sans-serif;
+}
